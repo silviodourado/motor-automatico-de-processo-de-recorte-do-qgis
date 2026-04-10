@@ -34,3 +34,7 @@ Outro aspecto relevante é a possibilidade de integração do plugin ao fluxo de
 Dessa forma, o presente trabalho justifica-se pela sua contribuição prática, acadêmica e tecnológica, ao propor uma solução inovadora para um problema recorrente no uso de sistemas de informação geográfica.
 
 AUTOR: SILVIO CEZAR DOURADO DE ARAUJO, EMAIL silvio.araujo@unemat.br    -    Abril/2026
+<img width="1626" height="1033" alt="Captura de tela 2026-03-21 175315" src="https://github.com/user-attachments/assets/2ab8dcd9-53e6-4e7a-a977-4e26151dcd1a" />
+<img width="1622" height="1028" alt="Captura de tela 2026-03-21 175227" src="https://github.com/user-attachments/assets/518f00a9-6996-4336-a876-e2bc9fd20417" />
+
+
